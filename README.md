@@ -1,2 +1,5 @@
 # Keeper-App-V1
-Created with CodeSandbox
+Basic front-end project using React.
+
+Next Steps:
+  - Firebase authentication for login screen
